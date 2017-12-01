@@ -262,38 +262,3 @@ gsettings set org.pantheon.desktop.wingpanel use-transparency false
 ```
 
 </details>
-
-## Icon request
-
-- Application name
-- Icon name (see desktop-file option **Icon** on `/usr/share/applications`)
-- Original icon image
-
-## Contribute
-
-We welcome user contributions. If you don't know where to start, we've compiled a list of things we would like to see in your pull request:
-
-- new icons for missing applications
-- symbolic links to an existing icon
-- resolving open issues
-- spelling, grammar, phrasing
-- improvements to our scripts
-
-Inside [tools/work](tools/work) you will find a step-by-step guide, an environment, and tools that will help you:
-
-- [create a new icon](tools/work#create-a-new-icon) from template
-- [make a symlink to an existing icon](tools/work#make-symlinks-to-an-existing-icon)
-- [edit an existing icon](tools/work#edit-an-existing-icon)
-- convert your icon to all variants of the theme
-
-We are waiting for your pull requests and would love to see this icon theme become as complete as possible.
-
-## Donate
-
-<span class="paypal"><a href="https://www.paypal.me/varlesh" title="Donate to this project using Paypal"><img src="https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-100px.png" alt="PayPal donate button" /></a></span>
-
-BTC: `1HwE62Zb8PyyY1XAR6Ykweix2ht8NAjvf5`
-
-## License
-
-GNU LGPL v3.0
