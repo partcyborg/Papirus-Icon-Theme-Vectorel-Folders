@@ -18,10 +18,8 @@ Use the scripts to install the latest version directly from this repo (independe
 
 **NOTE:** Use the same script to update icon themes.
 
-#### ROOT directory (recommended)
-
 ```
-wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh; wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-root.sh | sh;cd /usr/share/icons; sudo rm -rf ePapirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Light;sudo wget https://www.dropbox.com/s/l55zp49caacee5j/Papirus.tar ;sudo tar -xvf Papirus.tar;sudo rm -rf Papirus.tar
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/remove-papirus.sh | sh; wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install-papirus-root.sh | sh;cd /usr/share/icons; sudo rm -rf ePapirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Light;sudo wget https://www.dropbox.com/s/iqjsanke1thnp4a/Papirus.tar ;sudo tar -xvf Papirus.tar;sudo rm -rf Papirus.tar
 ```
 
 ## Hardcoded icons
