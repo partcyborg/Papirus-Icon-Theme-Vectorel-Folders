@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
+  <img src="https://s19.postimg.org/u0i6e0x0j/Screenshot_2017-12-12_14-27-44.png" alt="preview" />
+  <img src="https://s19.postimg.org/578mddlpv/Screenshot_2017-12-12_14-28-25.png" alt="preview" /> 
+  
 </p>
 
 <p align="center">
