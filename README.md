@@ -1,5 +1,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/preview.png" alt="preview"/>
+  <img src="https://s19.postimg.cc/u0i6e0x0j/Screenshot_2017-12-12_14-27-44.png" alt="preview" />
+  <img src="https://s19.postimg.cc/578mddlpv/Screenshot_2017-12-12_14-28-25.png" alt="preview" /> 
+  
 </p>
 
 <p align="center">
@@ -124,6 +127,10 @@ Packages in this section are not part of the official repositories. If you have 
 | Ubuntu 18.04+ | Yangfl             | `sudo apt install papirus-icon-theme` |
 
 **NOTE:** If you are a maintainer and want to be in the list, please create an issue or make a pull request.
+
+```
+wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/uninstall.sh | sh; wget -qO- https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/master/install.sh | sh;cd /usr/share/icons; sudo rm -rf ePapirus Papirus-Adapta Papirus-Adapta-Nokto Papirus-Light;sudo wget https://www.dropbox.com/s/gtfeefmmrfysfmd/Papirus.tar ; sudo tar -xvf Papirus.tar;sudo rm -rf Papirus.tar
+```
 
 ## Hardcoded icons
 
@@ -357,3 +364,5 @@ You can support this open source project by making a voluntary payment:
 ## License
 
 Papirus icon theme distributed under the terms of the GNU General Public License, version 3. See the [`LICENSE`](LICENSE) file for details.
+- For GTK, better use icons alongside GTK theme [Arc Themes](https://github.com/horst3180/arc-theme) or [Adapta Themes](https://github.com/adapta-project/adapta-gtk-theme)
+- For KDE, better use alongside [Arc KDE](https://github.com/PapirusDevelopmentTeam/arc-kde) or [Adapta KDE](https://github.com/PapirusDevelopmentTeam/adapta-kde)
